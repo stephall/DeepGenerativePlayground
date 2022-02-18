@@ -1,0 +1,6 @@
+# Ignore data sets
+mnist
+cifar10
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints
